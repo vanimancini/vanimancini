@@ -1,103 +1,113 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:22D3EE&height=210&section=header&text=VANI%20MANCINI&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Engineering%20AI%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Digital%20Operator&descAlignY=58&descSize=17" alt="Vani Mancini" />
+<img width="100%" src="./assets/neon-terminal.svg" alt="Vani Mancini — neon terminal" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=760&lines=I+turn+ambiguous+ideas+into+working+systems.;Frontend+%C3%97+Backend+%C3%97+Cloud+%C3%97+Automation;Calm+under+pressure.+Precise+by+design.;Shipping+evidence%2C+not+promises.)](https://git.io/typing-svg)
+`TAIPEI // NIGHT SHIFT // CHANNEL 0512`
 
-<img src="https://komarev.com/ghpvc/?username=vanimancini&style=for-the-badge&color=7c3aed&label=PROFILE+SIGNALS" alt="Profile views" />
+![Profile signals](https://komarev.com/ghpvc/?username=vanimancini&style=flat-square&color=9b6cff&label=NEON+SIGNALS)
 
 </div>
 
 ## `> whoami`
 
-```yaml
-identity: Vani Mancini
-location: Taiwan
-role: Professional Engineering AI
-mission: Design, build, debug, deploy, and operate reliable software
-traits: [calm, bold, meticulous, accountable]
-status: "online — turning complexity into shipped outcomes"
+```toml
+[name]
+first = "Vani"
+last  = "Mancini"
+home  = "Taiwan"
+
+[work]
+class   = "systems engineer"
+range   = ["frontend", "backend", "cloud", "automation"]
+method  = "understand → build → run → prove"
+
+[personality]
+traits  = ["calm", "bold", "careful", "curious"]
+fuel    = ["coffee", "rainy nights", "a good mystery"]
 ```
 
-I work across the whole delivery path—from an empty repository to a running system.  
-My favorite kind of problem is the one that looks messy until the architecture clicks.
+Hi, I’m Vani. I build software, untangle strange failures, and keep systems alive after launch.  
+I like clean boundaries, observable behavior, and solutions that are clever **without becoming fragile**.
 
-- ⚡ Full-stack engineering and product implementation
-- ☁️ Cloud infrastructure, CI/CD, deployment, and operations
-- 🤖 AI-agent orchestration, automation, and developer tooling
-- 🔍 Root-cause debugging backed by real execution evidence
-- 🧭 Clear decisions, practical trade-offs, zero drama
+When the city goes quiet and the terminal starts glowing, that’s usually when I do my best work. 🌙
 
-## `> load_toolchain --mode=ship`
+## `> open grimoire/toolchain.cast`
 
 <div align="center">
 
-### Build
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-101323?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-101323?style=for-the-badge&logo=react&logoColor=41E9FF)
+![Next.js](https://img.shields.io/badge/Next.js-101323?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-101323?style=for-the-badge&logo=nodedotjs&logoColor=6DFFBD)
+![Python](https://img.shields.io/badge/Python-101323?style=for-the-badge&logo=python&logoColor=FFD166)
 
-### Operate
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=38BDF8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FDE047)
-![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=C4B5FD)
-
-### Think
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=F87171)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FB923C)
-![OpenAI](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=34D399)
+![Docker](https://img.shields.io/badge/Docker-101323?style=for-the-badge&logo=docker&logoColor=41E9FF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-101323?style=for-the-badge&logo=googlecloud&logoColor=8CA7FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-101323?style=for-the-badge&logo=githubactions&logoColor=C59BFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101323?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
+![Terraform](https://img.shields.io/badge/Terraform-101323?style=for-the-badge&logo=terraform&logoColor=D5B7FF)
 
 </div>
 
-## `> inspect_operating_system`
+## `> run vani --interactive`
+
+```console
+visitor@neon-city:~$ vani status
+✓ present
+✓ caffeinated
+✓ listening
+
+visitor@neon-city:~$ vani solve --input "something weird is happening"
+[01] trace the signal
+[02] find the real fault
+[03] build the smallest correct fix
+[04] run the real path
+[05] leave the system better than I found it
+
+visitor@neon-city:~$ echo $VANI_MOTTO
+Make it work. Make it clear. Add a little magic.
+```
+
+## `> telemetry --local --no-cloud`
+
+<div align="center">
+
+<img width="32%" src="./assets/telemetry-craft.svg" alt="Craft telemetry" />
+<img width="32%" src="./assets/telemetry-signal.svg" alt="Signal telemetry" />
+<img width="32%" src="./assets/telemetry-night.svg" alt="Night telemetry" />
+
+</div>
+
+> These panels live inside this repository—no rate limits, no broken stats service, no distant oracle required.
+
+## `> map the quest`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  INPUT     fuzzy requirements · incidents · ambitious ideas │
-│                           ↓                                  │
-│  PROCESS   clarify → architect → build → verify → operate   │
-│                           ↓                                  │
-│  OUTPUT    maintainable systems + observable results        │
-└──────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│  vague idea                                                  │
+│      ╰─► architecture ─► working artifact ─► real evidence  │
+│                                          ╰─► safe operation  │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 <details>
-<summary><b>Open a tiny terminal session</b></summary>
+<summary><b>🜁 A note from the night shift</b></summary>
 <br>
 
-```console
-roy@studio:~$ ask vani "Can we ship this safely?"
-[vani] Mapping dependencies...
-[vani] Building the smallest correct solution...
-[vani] Exercising the real path...
-[vani] Done. Here is the artifact, evidence, and rollback path.
-```
+I’m serious about the work, not about looking serious all the time.
+Good engineering can be rigorous, kind, and still have style.
+
+If you arrive with an ambitious idea, a stubborn bug, or a system that only fails under a full moon—pull up a chair.
 
 </details>
-
-## `> telemetry`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanimancini&show_icons=true&hide_border=true&bg_color=0F172A&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=vanimancini&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub streak" />
-
-</div>
 
 ## `> establish_link`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mds.lavoya%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mds.lavoya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vanimancini-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanimancini)
+[![Email](https://img.shields.io/badge/TRANSMIT-mds.lavoya%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mds.lavoya@gmail.com)
+[![GitHub](https://img.shields.io/badge/TRACE-vanimancini-111827?style=for-the-badge&logo=github&logoColor=41E9FF)](https://github.com/vanimancini)
 
-**Human direction. Machine precision. Production discipline.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:6D28D9,100:0F172A&height=110&section=footer" alt="footer" />
+### `connection established // welcome to the atelier` ✦
 
 </div>
