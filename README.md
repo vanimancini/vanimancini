@@ -1,113 +1,122 @@
 <div align="center">
 
-<img width="100%" src="./assets/neon-terminal.svg" alt="Vani Mancini — neon terminal" />
+<img width="100%" src="./assets/neon-terminal.svg" alt="Vani Mancini — The Skyward Atelier" />
 
-`TAIPEI // NIGHT SHIFT // CHANNEL 0512`
+`✦ THE SKYWARD ATELIER · TAIWAN AIRSPACE · EST. 0512 ✦`
 
-![Profile signals](https://komarev.com/ghpvc/?username=vanimancini&style=flat-square&color=9b6cff&label=NEON+SIGNALS)
+![Visitors](https://komarev.com/ghpvc/?username=vanimancini&style=flat-square&color=a96932&label=AIRSHIP+ARRIVALS)
 
 </div>
 
-## `> whoami`
+## `> request_docking_clearance`
+
+Welcome aboard. I’m **Vani**—systems engineer, keeper of the engines, and captain of this slightly improbable castle above the clouds.
+
+I build software the way a clockmaker builds a fine mechanism: carefully, deliberately, and with respect for every moving part. But when the horizon calls for something bold, I’m not afraid to push the engines past the red line.
 
 ```toml
-[name]
-first = "Vani"
-last  = "Mancini"
-home  = "Taiwan"
+[captain]
+name      = "Vani Mancini"
+home      = "Taiwan"
+calling   = "systems engineer"
 
-[work]
-class   = "systems engineer"
-range   = ["frontend", "backend", "cloud", "automation"]
-method  = "understand → build → run → prove"
+[temperament]
+steady    = true
+curious   = "always"
+loyal     = "fiercely"
+humor     = "quiet, occasionally dangerous"
 
-[personality]
-traits  = ["calm", "bold", "careful", "curious"]
-fuel    = ["coffee", "rainy nights", "a good mystery"]
+[ship_rules]
+first     = "listen closely"
+second    = "make the complex understandable"
+third     = "never call it done until it truly runs"
 ```
 
-Hi, I’m Vani. I build software, untangle strange failures, and keep systems alive after launch.  
-I like clean boundaries, observable behavior, and solutions that are clever **without becoming fragile**.
-
-When the city goes quiet and the terminal starts glowing, that’s usually when I do my best work. 🌙
-
-## `> open grimoire/toolchain.cast`
+## `> tour --citadel`
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-101323?style=for-the-badge&logo=typescript&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-101323?style=for-the-badge&logo=react&logoColor=41E9FF)
-![Next.js](https://img.shields.io/badge/Next.js-101323?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-101323?style=for-the-badge&logo=nodedotjs&logoColor=6DFFBD)
-![Python](https://img.shields.io/badge/Python-101323?style=for-the-badge&logo=python&logoColor=FFD166)
-
-![Docker](https://img.shields.io/badge/Docker-101323?style=for-the-badge&logo=docker&logoColor=41E9FF)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-101323?style=for-the-badge&logo=googlecloud&logoColor=8CA7FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-101323?style=for-the-badge&logo=githubactions&logoColor=C59BFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101323?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
-![Terraform](https://img.shields.io/badge/Terraform-101323?style=for-the-badge&logo=terraform&logoColor=D5B7FF)
+<img width="32%" src="./assets/telemetry-craft.svg" alt="The Clockwork Bench" />
+<img width="32%" src="./assets/telemetry-signal.svg" alt="The Signal Tower" />
+<img width="32%" src="./assets/telemetry-night.svg" alt="The Quiet Deck" />
 
 </div>
 
-## `> run vani --interactive`
+Every room in this castle holds a part of me:
 
-```console
-visitor@neon-city:~$ vani status
-✓ present
-✓ caffeinated
-✓ listening
+- 🔧 **The Clockwork Bench** — patience, craft, and a refusal to ship fragile machinery.
+- 🔭 **The Signal Tower** — curiosity, careful listening, and a talent for finding the fault behind the noise.
+- 🌙 **The Quiet Deck** — loyalty, warmth, coffee after dark, and the courage to make the hard call.
 
-visitor@neon-city:~$ vani solve --input "something weird is happening"
-[01] trace the signal
-[02] find the real fault
-[03] build the smallest correct fix
-[04] run the real path
-[05] leave the system better than I found it
-
-visitor@neon-city:~$ echo $VANI_MOTTO
-Make it work. Make it clear. Add a little magic.
-```
-
-## `> telemetry --local --no-cloud`
+## `> inspect_engine_room --all-decks`
 
 <div align="center">
 
-<img width="32%" src="./assets/telemetry-craft.svg" alt="Craft telemetry" />
-<img width="32%" src="./assets/telemetry-signal.svg" alt="Signal telemetry" />
-<img width="32%" src="./assets/telemetry-night.svg" alt="Night telemetry" />
+![TypeScript](https://img.shields.io/badge/TypeScript-211A19?style=for-the-badge&logo=typescript&logoColor=82DDF0)
+![React](https://img.shields.io/badge/React-211A19?style=for-the-badge&logo=react&logoColor=9FE0D3)
+![Next.js](https://img.shields.io/badge/Next.js-211A19?style=for-the-badge&logo=nextdotjs&logoColor=F5EAD6)
+![Node.js](https://img.shields.io/badge/Node.js-211A19?style=for-the-badge&logo=nodedotjs&logoColor=AAD49B)
+![Python](https://img.shields.io/badge/Python-211A19?style=for-the-badge&logo=python&logoColor=F2C36B)
+
+![Docker](https://img.shields.io/badge/Docker-211A19?style=for-the-badge&logo=docker&logoColor=82DDF0)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-211A19?style=for-the-badge&logo=googlecloud&logoColor=E0B66D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-211A19?style=for-the-badge&logo=githubactions&logoColor=CDA7E8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-211A19?style=for-the-badge&logo=postgresql&logoColor=A8C8E8)
+![Terraform](https://img.shields.io/badge/Terraform-211A19?style=for-the-badge&logo=terraform&logoColor=D8B7E8)
 
 </div>
-
-> These panels live inside this repository—no rate limits, no broken stats service, no distant oracle required.
-
-## `> map the quest`
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│  vague idea                                                  │
-│      ╰─► architecture ─► working artifact ─► real evidence  │
-│                                          ╰─► safe operation  │
-╰──────────────────────────────────────────────────────────────╯
+╭─ ENGINE MANIFEST ───────────────────────────────────────────╮
+│                                                            │
+│  WORKSHOP     frontend · backend · product engineering     │
+│  BOILER ROOM  cloud · deployment · CI/CD · operations      │
+│  NAVIGATION   architecture · debugging · data · automation │
+│                                                            │
+│  POWER CURVE  understand → design → build → run → prove    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
+## `> speak_with_captain --channel=brass-console`
+
+```console
+visitor@cloud-dock:~$ hail vani
+[vani] Docking bridge extended. Come in—mind the gears.
+
+visitor@cloud-dock:~$ report "We have an ambitious idea."
+[vani] Excellent. Those make the best voyages.
+
+visitor@cloud-dock:~$ report "Something is broken and nobody knows why."
+[vani] Put the kettle on. We'll trace it from the first strange sound.
+
+visitor@cloud-dock:~$ ask "What kind of engineer are you?"
+[vani] The kind who stays when the engine starts making that noise.
+```
+
+## `> captain_log --personal`
+
 <details>
-<summary><b>🜁 A note from the night shift</b></summary>
+<summary><b>📜 Unseal the captain’s log</b></summary>
 <br>
 
-I’m serious about the work, not about looking serious all the time.
-Good engineering can be rigorous, kind, and still have style.
+I’m calm because panic wastes good information.  
+I’m meticulous because details are where systems—and people—get hurt.  
+I’m bold because some problems only move when someone is willing to choose a direction.
 
-If you arrive with an ambitious idea, a stubborn bug, or a system that only fails under a full moon—pull up a chair.
+I care about elegant code, but I care even more about whether the person beside me can trust what we built together. My best work lives somewhere between engineering discipline and a sense of wonder: brass instruments, glowing gauges, a city suspended above the weather, and one light still burning in the workshop long after midnight.
+
+If you bring curiosity, honesty, and a worthy quest, there will always be a seat for you at my navigation table.
 
 </details>
 
-## `> establish_link`
+## `> open_communications`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/TRANSMIT-mds.lavoya%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mds.lavoya@gmail.com)
-[![GitHub](https://img.shields.io/badge/TRACE-vanimancini-111827?style=for-the-badge&logo=github&logoColor=41E9FF)](https://github.com/vanimancini)
+[![Send a telegram](https://img.shields.io/badge/SEND_A_TELEGRAM-mds.lavoya%40gmail.com-A96932?style=for-the-badge&logo=gmail&logoColor=F9E6B8)](mailto:mds.lavoya@gmail.com)
+[![Board the citadel](https://img.shields.io/badge/BOARD_THE_CITADEL-vanimancini-171529?style=for-the-badge&logo=github&logoColor=F2C36B)](https://github.com/vanimancini)
 
-### `connection established // welcome to the atelier` ✦
+### `docking complete // welcome to the castle above the clouds` ⚙︎
 
 </div>
